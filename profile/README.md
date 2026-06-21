@@ -1,4 +1,4 @@
-![Heap & Stack](./assets/banner.png)
+![Heap & Stack](./assets/banner.svg)
 
 **Heap & Stack** — understanding systems through failure.
 
